@@ -32,7 +32,7 @@ To view or contribute to the **LifeUnfolded.com** project locally, follow these 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/lifeunfolded.com.git
+   git clone https://github.com/TrRahim/lifeunfolded.com.git
 2. **Navigate to the project directory**:
    ```bash
    cd lifeunfolded.com
